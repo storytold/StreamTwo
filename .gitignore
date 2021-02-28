@@ -1,0 +1,9 @@
+# Plugins managed with git
+Plugins/CloudCamPlugin/
+
+# Builds and cache
+Binaries/
+Intermediate/
+
+# Editor
+.vs/
